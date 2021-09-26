@@ -1,3 +1,2 @@
-# Pardot Forms Everywhere!
-
-Details comming soon!
+# PardotFormsEverywhere
+Pardot Forms Everywhere takes your Pardot Forms and gives you the ability to sync them to your Salesforce org on demand or on a schedule. This will take the form and send the details over to Salesforce for you to use in the Experience Builder or on Lightning Pages. Even better, you can now drag a custom component into the new Lightning Email Builder that will let you select a Pardot form and send it right to your Customers!

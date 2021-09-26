@@ -1,4 +1,4 @@
-global with sharing class PardotFormCallout {    
+global without sharing class PardotFormCallout {    
     //Create a classs to parse the sessionID from the APEX page.
     public class SessionId {
         public string sessionId;
